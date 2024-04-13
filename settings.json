@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/javax.mail.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.base.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.controls.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.fxml.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.graphics.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.media.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.swing.jar",
+        "C:\\Users\\golde\\Downloads\\openjfx-22_linux-aarch64_bin-sdk\\lib\\javafx.web.jar"
+    ]
+}
